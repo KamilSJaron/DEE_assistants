@@ -1,4 +1,4 @@
-either15th of May 2017 about 25 PhD students and post-docs have met in Biophore Auditoire. We used pink and green stickers to show a support to different statements, those were calculated approximately and here reported in bracketed after the statements.
+15th of May 2017 ~25 PhD students and post-docs have met in Biophore Auditoire. We used pink and green stickers to show a support to different statements, those were calculated approximately and here reported in bracketed after the statements. People were leaving over time
 
 ## Representatives
 

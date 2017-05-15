@@ -4,7 +4,7 @@ this repository will serve as a platform for sharing data and documents of among
 
 Reports of meetings among students will be saved in directory [student_meetings](student_meetings). List of meetings:
 
-- [15.05. 2017](170515_assistant_meeting.md)
+- [15.05. 2017](student_meetings/170515_assistant_meeting.md)
 
 Reports of meetings of the subcommittee will be saved in directory [subcommittee_meetings](subcommittee_meetings). List of meetings:
 
