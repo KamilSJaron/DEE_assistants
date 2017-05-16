@@ -23,7 +23,8 @@ Assistants teach on short notice subjects that is not their domain and they do n
 The most of assistants accept the French to be the language of department. However, there some cases where translations would be very helpful:
 - an unofficial translation of official contracts
 - the webpages of language courses
-- MyUniL.
+- MyUniL
+- emails (official emails, surveys, legal documents requests, ...)
 
 ---
 
@@ -33,7 +34,7 @@ Related to teaching, some assistants (discussed after the meeting) believe that 
 
 Are you satisfied with courses in the doctoral program? (2 no, no other votes)
 
-- general program is to medical
+- general program is too medical
 - missing ecological topic group (ecology student had to take genetic topic group)
 
 ---
