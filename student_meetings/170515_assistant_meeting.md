@@ -35,7 +35,7 @@ Related to teaching, some assistants (discussed after the meeting) believe that 
 
 Are you satisfied with courses in the doctoral program? (2 no, no other votes)
 
-- general program is to medical
+- general program is too medical
 - missing ecological topic group (ecology student had to take genetic topic group)
 
 ---
