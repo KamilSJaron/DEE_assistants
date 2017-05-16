@@ -18,8 +18,6 @@ We fully agreed that we need data to support the perception, therefore we would 
 
 Assistants teach on short notice subjects that is not their domain and they do not feel prepared as they should be. There should be more focus on assistants being actually instructed or as least they should get materials (powerpoint) of what is going to be done in the practicals some time in advance.
 
-An assistant gave an example of a course, where the last week the presentation was provided only one day ahead.
-
 ## Language issues
 
 The most of assistants accept the French to be the language of department. However, there some cases where translations would be very helpful:
