@@ -25,7 +25,8 @@ An assistant gave an example of a course, where the last week the presentation w
 The most of assistants accept the French to be the language of department. However, there some cases where translations would be very helpful:
 - an unofficial translation of official contracts
 - the webpages of language courses
-- MyUniL.
+- MyUniL
+- emails (official emails, surveys, legal documents requests, ...)
 
 ---
 
