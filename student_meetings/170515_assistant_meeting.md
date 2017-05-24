@@ -47,6 +47,8 @@ Career days had not enough spaces for everybody and it is just once per year.
 
 We like presence of industry on conferences (like Genomics Days).
 
+24.05. ad to industry issue : there is an association aiming to promote career development of  Life Sciences students called [BioScience Network Lausanne (BSNL)](https://bsnl.ch/).
+
 ## Should we have a departmental statistician?
 (13 yes, 2 no)
 
