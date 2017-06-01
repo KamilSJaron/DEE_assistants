@@ -9,3 +9,7 @@ Reports of meetings among students will be saved in directory [student_meetings]
 Reports of meetings of the subcommittee will be saved in directory [subcommittee_meetings](subcommittee_meetings). List of meetings:
 
 - 16.11.2016 (report to be added)
+
+Relevant notes from the departmental meetings :
+
+- [01.06.2017](departmental_meetings/170601_departmental_meeting.md)
