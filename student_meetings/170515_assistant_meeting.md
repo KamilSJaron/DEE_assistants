@@ -12,7 +12,7 @@ We searched for a representative of post-docs in the subcommittee for PhD studen
 
 The most of assistants feel that the teaching load differs a lot between different assistants. The ability to speak French was suggested as a putative reason for the difference, mainly for French speaking assistants teaching bachelor courses together with non-French speakers.  (feeling about different teaching load: vastly yes, 2 for no)
 
-We fully agreed that we need data to support the perception, therefore we would like to see and share statistics of teaching load of all the assistants that are collected in the end of each semester. If we do not get the stats, we will have to do a survey by our own!
+We fully agreed that we need data to support the perception, therefore we would like to see and share statistics of teaching load of all the assistants that are collected in the end of each semester. If we do not get the stats, we could do a survey on our own.
 
 ---
 
